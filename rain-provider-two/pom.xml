@@ -5,7 +5,7 @@
     <artifactId>weather-program</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>weather-app</artifactId>
+  <artifactId>rain-provider-two</artifactId>
   
   <dependencies>
   	<dependency>
